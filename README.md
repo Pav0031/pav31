@@ -9,7 +9,11 @@
 ## Introduction
 Welcome to my GitHub repository! Here, you'll find a collection of projects, analyses, and insights that showcase my skills and experience as a business analyst. I'm passionate about leveraging data-driven strategies to drive business growth and decision-making.
 
-
+# Projects
+- **Project 1:** -Analyze-Death-Age-Difference-of-Right-Handers-with-Left-Handers-Project
+  - Description: the project aims to investigate the age difference at death between right-handers and left-handers using data from a National Geographic survey and death distribution records. By applying Bayesian statistics and data visualization techniques, we explore the impact of changing rates of left-handedness over time on mortality patterns.
+  - Tools/Techniques: Python
+  - Repository Link: https://github.com/Pav0031/-Analyze-Death-Age-Difference-of-Right-Handers-with-Left-Handers-Projec
 ...
 
 ## Skills
